@@ -1,0 +1,5 @@
+f:\Projects\Anticaptcha\Anticaptcha\bin\Debug\Anticaptcha.dll
+f:\Projects\Anticaptcha\Anticaptcha\bin\Debug\Anticaptcha.pdb
+f:\Projects\Anticaptcha\Anticaptcha\obj\Debug\Anticaptcha.csprojResolveAssemblyReference.cache
+f:\Projects\Anticaptcha\Anticaptcha\obj\Debug\Anticaptcha.dll
+f:\Projects\Anticaptcha\Anticaptcha\obj\Debug\Anticaptcha.pdb

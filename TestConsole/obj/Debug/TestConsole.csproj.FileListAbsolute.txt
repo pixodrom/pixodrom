@@ -1,0 +1,7 @@
+f:\Projects\Anticaptcha\TestConsole\bin\Debug\TestConsole.exe
+f:\Projects\Anticaptcha\TestConsole\bin\Debug\TestConsole.pdb
+f:\Projects\Anticaptcha\TestConsole\bin\Debug\Anticaptcha.dll
+f:\Projects\Anticaptcha\TestConsole\bin\Debug\Anticaptcha.pdb
+f:\Projects\Anticaptcha\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+f:\Projects\Anticaptcha\TestConsole\obj\Debug\TestConsole.exe
+f:\Projects\Anticaptcha\TestConsole\obj\Debug\TestConsole.pdb
